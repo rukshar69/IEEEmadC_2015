@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_12ed5ce28830976522450793bd98e059881fde3c\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af042067d0c22514147b2a1be6b72f7bb101136c">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4f88e31bb5322bd27ae1b3ad7ea6e3ca36c4bfe\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_3c9fefba81f649157f57f93385540242ac5c4ba6\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_224365bcc378e6d2359942ce87e8419cbeead510\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jjoe64-graphview-4.0.1_ac93969a63961c53f76818ee7e78466c387409b8\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_9ba71a6e4643f13225cebf557035b07034c2136d\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_4d0eb9ab2c432656764f4d311fd17bd9a264f261\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0d9928278fa8f0269515ecde6d255df52b4566ed">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a945749983ae8e67d1cb69a300592991f0e9082d\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_4d25497b32f70963565eba051017f400f267070c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dipto\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_42d05b2ac879c50b025ccc314410b9198f3f262e\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_166d7c7d95e43f4ae8c84d76db172159f8b3eb80\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_b01b7cac1b934ef86f3397701b3cf945d6563d96\classes.dex" />
+    </item>
+    <item
+        jar="D:\IeeeMadC\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\IeeeMadC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_144c8cbf0a2e9220e8f255c745dd457f1ca571a7\classes.dex" />
+    </item>
+
+</items>
